@@ -10,9 +10,13 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong i
 
 Here are some of the technologies I work with:
 
-!Java(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-!Spring Boot(https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-!PostgreSQL(https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Jasper Reports](https://img.shields.io/badge/Jasper%20Reports-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📫 Connect with Me
 
