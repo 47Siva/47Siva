@@ -24,6 +24,6 @@ Here are some of the technologies I work with:
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/siva-baskaran-6709212b3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-baskaran-6709212b3/)
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you’d like to collaborate on a project or just chat about technology.
