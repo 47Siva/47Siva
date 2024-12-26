@@ -1,6 +1,6 @@
 ## Hi there I'm Siva 👋
 
-Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong interest in building scalable and efficient systems. I love solving complex problems and working on projects that make a difference.
+Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong interest in building scalable and efficient systems.
 
 ## 🚀 About Me
 
