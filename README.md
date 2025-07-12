@@ -4,10 +4,12 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a strong i
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on enhancing my skills in **Spring Security** and **JWT** to build more secure applications.
+- 🎓 Currently studying B.E. Computer Science and Engineering (CSE) at Anna University.
+- 🌐 Exploring Web Development to enhance my frontend skills.
 - 🌱 I’m also exploring **cloud services** to improve my deployment strategies.
 - 👯 I’m looking to collaborate on open source projects, especially those related to **backend development**, **security**, and **API design**.
 - 💬 Ask me about anything related to **Java**, **MySQL**, **REST APIs**, or **Spring Security**. I’m always happy to help and share knowledge.
+- 🚀 Always eager to learn and grow as a developer!
 - 📫 How to reach me: **sivabaskaran2003@gmil.com**
 
 ## 🛠️ Languages and Tools
